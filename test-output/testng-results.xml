@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="85622" started-at="2020-03-14T00:10:59 CDT" finished-at="2020-03-14T00:12:25 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="85622" started-at="2020-03-14T00:10:59 CDT" finished-at="2020-03-14T00:12:25 CDT">
+      <class name="RahulS.QAPractice.Login">
+        <test-method status="PASS" signature="setupApplication()[pri:0, instance:RahulS.QAPractice.Login@7193666c]" name="setupApplication" duration-ms="50911" started-at="2020-03-14T00:10:59 CDT" description="This Test Case Open the Browser" finished-at="2020-03-14T00:11:50 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupApplication -->
+        <test-method status="PASS" signature="loginToApplication()[pri:1, instance:RahulS.QAPractice.Login@7193666c]" name="loginToApplication" duration-ms="12493" started-at="2020-03-14T00:11:50 CDT" description="This Test Case Close &#039;Join Our Newsletter Window&#039; &amp; Click on login Link" finished-at="2020-03-14T00:12:03 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplication -->
+        <test-method status="PASS" signature="logInToApplication()[pri:2, instance:RahulS.QAPractice.Login@7193666c]" name="logInToApplication" duration-ms="10159" started-at="2020-03-14T00:12:03 CDT" description="This Test Case Enter Email and Password Then Click on Login Button " finished-at="2020-03-14T00:12:13 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInToApplication -->
+        <test-method status="PASS" signature="homeLink()[pri:3, instance:RahulS.QAPractice.Login@7193666c]" name="homeLink" duration-ms="6223" started-at="2020-03-14T00:12:13 CDT" description="This Test Case Click on Home Link" finished-at="2020-03-14T00:12:19 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeLink -->
+        <test-method status="PASS" signature="practiceProject()[pri:4, instance:RahulS.QAPractice.Login@7193666c]" name="practiceProject" duration-ms="1056" started-at="2020-03-14T00:12:19 CDT" description="This Test Case Click on Practice Project" finished-at="2020-03-14T00:12:20 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- practiceProject -->
+        <test-method status="PASS" signature="closeApplication()[pri:6, instance:RahulS.QAPractice.Login@7193666c]" name="closeApplication" duration-ms="4358" started-at="2020-03-14T00:12:20 CDT" description="This Test Case perform Close the Browser" finished-at="2020-03-14T00:12:25 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method status="PASS" signature="endingTestSuite(org.testng.ITestContext)[pri:0, instance:RahulS.QAPractice.Login@7193666c]" name="endingTestSuite" is-config="true" duration-ms="6" started-at="2020-03-14T00:12:25 CDT" finished-at="2020-03-14T00:12:25 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@660e9100]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endingTestSuite -->
+      </class> <!-- RahulS.QAPractice.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
